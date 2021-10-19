@@ -1,4 +1,4 @@
-# di-many-workspaces-starter template
+# di-workspace-collection-starter template
 Title 
 This repo is for ... <br/>
 
